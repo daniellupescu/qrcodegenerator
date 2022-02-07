@@ -1,0 +1,14 @@
+api-key:
+  header: api-key
+  value: ef34244c-f236-4954-bf1d-0b0f1a86b595
+
+qr-code:
+  width: 110
+  height : 110
+  format : png
+
+output:
+  path: C:/dev/ #if empty, file is generated in the /tmp folder
+
+csv:
+  skip-first-line: true

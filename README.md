@@ -1,6 +1,6 @@
 ## QR code generator
 
-QR code generator demo app exposing a REST API that consume a CSV file.
+QR code generator demo app exposing a REST API that consumes a CSV file.
 
 This is a SpringBoot app that contains a controller and a service.
 Authentication is base on an api-key (custom http header). Edit the application.yml to put your API key.

@@ -5,7 +5,7 @@ QR code generator demo app exposing a REST API that consumes a CSV file.
 This is a SpringBoot app that contains a controller and a service.
 Authentication is base on an api-key (custom http header). Edit the application.yml to put your API key.
 CSV parsing is done with the opencsv library.
-QR generate is done with the zxing library.
+QR code generation is done with the zxing library.
 
 Change Maven property `<java.version>` to match the version of your JDK.
 
